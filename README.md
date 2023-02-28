@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Digvijay999
 - 👀 I’m interested in CyberSecurity  
-- 🌱 I’m currently learning Coding (c,c++,java,python)
+- 🌱 I’m currently learning Coding (Ethical Hacking | Cyber Security | Penetration Testing |c |c++ |java |python)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://github.com/Digvijay999
 
